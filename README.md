@@ -1,67 +1,52 @@
 # RustPrimer
 
-[![build status][build-badge]][build-url]
+[![Build Status][build-badge]][build-url]
 
 [build-badge]: https://api.travis-ci.org/rustcc/RustPrimer.svg
 [build-url]: https://travis-ci.org/rustcc/RustPrimer
 
-The Rust primer for beginners.
+Welcome to the Rust Primer, a comprehensive guide for beginners to learn Rust programming language.
 
-给初学者的Rust中文教程。
+## Online Reading
 
-## 在线阅读地址
+You can access the primer online by clicking [here](https://rustcc.gitbooks.io/rustprimer/content/).
 
-[点我阅读](https://rustcc.gitbooks.io/rustprimer/content/)
-
-也可复制以下链接：
-
-```
+Alternatively, you can copy the following link:
 https://rustcc.gitbooks.io/rustprimer/content/
-```
 
-## 社区
+## Community
 
-### QQ群
+### QQ Groups
 
-群号：
-```
-    Rust语言中文社区 144605258 （已满）
-    Rust编程语言社区2群 303838735
-    (telegram群)：
-```
+Join our QQ groups:
 
-*进群必须附带您的github地址，否则不予通过*
+- Rust Language Chinese Community: 144605258 (full)
+- Rust Programming Language Community 2 Group: 303838735
 
-### telegram社群
+*(telegram group):*
 
-rust社区深水群：[https://t.me/rust_deep_water](https://t.me/rust_deep_water)
+To join, please provide your GitHub address. Users without a GitHub address will not be allowed to join.
 
-rust众: [https://t.me/rust_zh](https://t.me/rust_zh)
+### Telegram Community
 
+Join our Telegram communities:
 
-### 社区
+- Rust Community Deep Water Group: [https://t.me/rust_deep_water](https://t.me/rust_deep_water)
+- Rust Crowd: [https://t.me/rust_zh](https://t.me/rust_zh)
 
-chat: https://chat.rust-china.org/ (使用github验证登录)
+### More Community Resources
 
-blog: https://rust-china.org/
+- Chat: [https://chat.rust-china.org/](https://chat.rust-china.org/) (login with GitHub authentication)
+- Blog: [https://rust-china.org/](https://rust-china.org/)
+- Wiki: [https://wiki.rust-china.org/](https://wiki.rust-china.org/)
 
-wiki: https://wiki.rust-china.org/
+## Copyright
 
-## 版权规定
+This primer is licensed under the `CC BY-SA 3.0` protocol. When reposting, please include the source address.
 
-本书使用 `CC BY-SA 3.0` 协议，转载请注明地址。
+## GitBook Generation
 
-## GitBook 生成
+To generate the GitBook, simply use:
 
-直接用：
-
-```
+```bash
 gitbook serve
-```
-
-即可。
-
-## ChangeLog
-
-1. 2016年3月31日，初稿完成。发布 v1.0 版。
-2. 2016年5月2日，完成 1.1.0 版本。
